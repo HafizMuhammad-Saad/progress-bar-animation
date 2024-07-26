@@ -6,40 +6,57 @@ body {
     width:200px;
     border:1px solid black;
     border-radius:50px;
-    
     margin: 10px auto;
+}
+.container1{
+    background-color: #A0CBE8;
+}
+.container2{
+    background-color: #E96653;
+}
+.container3{
+    background-color: #F7D965;
+}
+.container4{
+    background-color: #F1B665;
+}
+.container5{
+    background-color: #CA96B8;
+}
+.container6{
+    background-color: #49964F;
 }
 .bar{
     width:100%;
     height:100%;
     border-radius:50px;
-    animation:pointing 2s infinite   linear;
-    animation-fill-mode:forwards;
+    animation:pointing 8s infinite   linear;
+    animation-fill-mode:forwards;    
 }
 
 .bar1{
-    background-color:green;
+    background-color:#4D78A6;
 }
 .bar2{
 animation-duration:3s;
-    background-color:blue;
+    background-color:#AE2039;
 }
 
 .bar3{
     animation-duration:4s;
-    background-color:aqua;
+    background-color:#F0BD27;
 }
 
 .bar4{
     animation-duration:5s;
-    background-color:orange;
+    background-color:#EA7427;
 }
 .bar5{
     animation-duration:6s;
-    background-color:red;
+    background-color:#996A96;
 }
 .bar6{
-    background-color: tomato;
+    background-color: #306A3D;
     animation-duration: 7s;
 }
 @keyframes pointing{
