@@ -6,6 +6,7 @@ body {
     width:200px;
     border:1px solid black;
     border-radius:50px;
+<<<<<<< HEAD
     margin: 10px auto;
 }
 .container1{
@@ -25,6 +26,9 @@ body {
 }
 .container6{
     background-color: #49964F;
+=======
+    margin:10px auto;
+>>>>>>> 92550a094667a04281b97a9c94b1bdf17077f9da
 }
 .bar{
     width:100%;
