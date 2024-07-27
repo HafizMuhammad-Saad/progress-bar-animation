@@ -2,8 +2,8 @@ body {
     background-color: #eee;
 }
 .container{
-    height:20px;
-    width:200px;
+    height:40px;
+    width:100%;
     border:1px solid black;
     border-radius:50px;
     margin: 10px auto;
