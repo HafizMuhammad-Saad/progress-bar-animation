@@ -1,9 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body {
     background-color: #eee;
 }
 .container{
-    height:20px;
-    width:200px;
+    height:40px;
+    width:70%;
     border:1px solid black;
     border-radius:50px;
     margin: 10px auto;
@@ -25,9 +30,7 @@ body {
 }
 .container6{
     background-color: #49964F;
-=======
     margin:10px auto;
->>>>>>> 92550a094667a04281b97a9c94b1bdf17077f9da
 }
 .bar{
     width:100%;
