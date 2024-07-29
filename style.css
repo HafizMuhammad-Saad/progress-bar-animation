@@ -12,6 +12,7 @@ body {
     border:1px solid black;
     border-radius:50px;
     margin: 10px auto;
+    overflow: hidden;
 }
 .container1{
     background-color: #A0CBE8;
